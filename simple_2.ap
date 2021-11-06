@@ -1,0 +1,9 @@
+f,g,h,i
+f
+i
+b,c,d
+c
+(f,c,L;g,c)
+(g,b,L;g,L)
+(g,c,c;h,L)
+(h,c,c;i,L)

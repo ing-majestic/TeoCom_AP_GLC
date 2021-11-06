@@ -1,0 +1,10 @@
+a,b,c,d,e
+a
+e
+b,c,r,t
+e
+(a,c,L;b,c)
+(b,b,L;b,L)
+(a,L,L;c,c)
+(b,c,c;c,L)
+(c,c,c;t,L)

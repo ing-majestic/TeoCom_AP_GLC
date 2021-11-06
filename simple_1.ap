@@ -1,0 +1,8 @@
+f,g,h
+f
+h
+b,c
+c
+(f,c,L;g,c)
+(g,b,L;g,L)
+(g,c,c;h,L)
